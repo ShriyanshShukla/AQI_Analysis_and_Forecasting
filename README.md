@@ -58,22 +58,19 @@ Screenshots are placed in `/images/dashboard_screenshots/`.
 ## Repository structure
 
 ```
-AQI-Forecasting-Project/
+AQI_Analysis_and_Forecasting/
 
-├── notebook/
-│   └── aqi_forecasting.ipynb        # preprocessing, model training, forecasting, evaluation
+├── Notebook/
+│   └── AQI_Forecasting.ipynb        # preprocessing, model training, forecasting, evaluation
 
-├── powerbi/
+├── PowerBI_Dashboard/
 │   └── AQI_Dashboard.pbix            # Power BI file (screenshots in images/)
 
-├── data/
-│   ├── raw/                          # source/raw CSVs (optional: keep out of repo if large)
-│   └── cleaned/                      # cleaned datasets used by notebook
+├── Data/
+│   └── city_day.xlsx                 # source
 
-├── images/
-│   └── dashboard_screenshots/        # screenshots used in README
-
-├── src/                              # optional: helper modules (model saving, utils)
+├── Images/
+│   └── Dashboard_Screenshots        # screenshots
 
 ├── README.md                          # this file
 └── requirements.txt                   # Python dependencies
