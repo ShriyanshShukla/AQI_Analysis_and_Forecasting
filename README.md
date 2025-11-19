@@ -7,3 +7,17 @@ Python (Pandas, NumPy, Scikit-Learn)
 Power BI
 Jupyter Notebook
 Matplotlib/Seaborn (for evaluation)
+
+Missing values handled with ___
+
+Outliers removed using ___ (IQR / domain logic)
+
+Converted date to datetime
+
+Removed duplicatesMissing values handled with ___
+
+Outliers removed using ___ (IQR / domain logic)
+
+Converted date to datetime
+
+Removed duplicates
