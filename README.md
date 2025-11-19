@@ -68,6 +68,7 @@ AQI_Analysis_and_Forecasting/
 
 ├── Data/
 │   └── city_day.xlsx                 # source
+│   └── forecast.csv
 
 ├── Images/
 │   └── Dashboard_Screenshots        # screenshots
