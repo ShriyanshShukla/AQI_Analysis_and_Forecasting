@@ -1,23 +1,2 @@
-# 🏭 Air Quality Index Forecasting (2015–2020)
-This project analyzes 5 years of AQI data across multiple Indian cities, performs data cleaning, detects outliers, builds lag-based features, and trains a Random Forest model to forecast short-term AQI.
-A Power BI dashboard provides deep exploratory analysis and city-wide comparisons.
-## 📂 Project Structure
-## 🔧 Tech Stack
-Python (Pandas, NumPy, Scikit-Learn)
-Power BI
-Jupyter Notebook
-Matplotlib/Seaborn (for evaluation)
-
-Missing values handled with ___
-
-Outliers removed using ___ (IQR / domain logic)
-
-Converted date to datetime
-
-Removed duplicatesMissing values handled with ___
-
-Outliers removed using ___ (IQR / domain logic)
-
-Converted date to datetime
-
-Removed duplicates
+This project analyzes 5 years of Air Quality Index (AQI) data across major Indian cities, performs data cleaning and feature engineering, and uses a machine-learning model to forecast short-term AQI.
+A Power BI dashboard is included for detailed exploratory analysis.
